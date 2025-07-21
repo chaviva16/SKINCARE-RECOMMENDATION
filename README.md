@@ -25,20 +25,10 @@ Each product recommendation displays:
 
 ---
 
-## 📁 Project Structure
-
-skincare_recommendation/
-│
-├── main.py # Streamlit app interface and logic
-├── preprocess.py # Data preprocessing script
-├── requirements.txt # Libraries for deployment
-└── data/
-└── dermstore_data.json # Product dataset
----
-
 ## 🚀 How to Run Locally
  *Clone the repository*:
 git clone https://github.com/chaviva16/skincare-recommender.git
+
 cd skincare_recommendation
 
 Install dependencies:
@@ -64,7 +54,9 @@ JSON parsing
 
 ## 🙋🏽‍♀ About the Developer
 Created with 💗 by Otabor Favour Osasere (Chaviva)
+
 📧 favourotabor16@gmail.com
+
 🌐 GitHub | 📍 Lagos, Nigeria
 
 ## 📜 License
