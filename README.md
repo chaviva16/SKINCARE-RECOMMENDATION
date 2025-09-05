@@ -47,10 +47,10 @@ streamlit run main.py
 ➕ “See More” functionality for extended results
 
 ## 🛠 Built With
-Python 
-Streamlit
-Pandas
-JSON parsing
+Python,
+Streamlit,
+Pandas,
+JSON parsing,
 
 ## 🙋🏽‍♀ About the Developer
 Created with 💗 by Otabor Favour Osasere (Chaviva)
