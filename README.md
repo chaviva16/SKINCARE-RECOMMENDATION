@@ -1,6 +1,6 @@
 ## 💆‍♀ Skincare Product Recommender
 
-An intelligent skincare product recommendation web app built with *Streamlit, helping users find the best products tailored to their **skin type* and *concerns*.
+An intelligent skincare product recommendation web app built with Streamlit, helping users find the best products tailored to their *skin type* and *concerns*.
 
 🔗 *Live App*: [skincare-recommendations.streamlit.app](https://skincare-recommendations.streamlit.app/)  
 📁 *Dataset Source*: Dermstore (scraped JSON product data)
